@@ -7,6 +7,6 @@ namespace Basededatos
     class cConexion
     {
         // :v 
-        //Hola amor esta prueba de git
+        //Vamos a volver loco al git
     }
 }
