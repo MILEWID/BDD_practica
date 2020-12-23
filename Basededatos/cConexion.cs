@@ -6,6 +6,6 @@ namespace Basededatos
 {
     class cConexion
     {
-
+        // :v 
     }
 }
